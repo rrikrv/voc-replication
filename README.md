@@ -22,7 +22,6 @@ It reimplements the theory, the simulations and the empirical backtest, compares
 | `backtest/` | rolling-window out-of-sample backtest over a grid of P and z, with tests | Figs. 7-9, Table I |
 | `linear_model/` | linear kitchen-sink benchmark, Table I comparison, variable importance, positions versus recessions | Table I, Figs. 10-11 |
 | `critique/` | checks for the momentum critique of the paper | Sec. V.F |
-| `slides/` | slide sources, PDFs and speaker notes | |
 | `run_all.py` | runs everything and checks that the parts agree with each other | |
 
 ## Setup
